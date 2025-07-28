@@ -38,7 +38,7 @@ Each document outputs a JSON with:
    - Page
    - Refined summary text
 
-Sample output: See output/Document - X/Document - X.json
+Sample output: See output/Document - X.json
 
 ---
 
