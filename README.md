@@ -1,5 +1,5 @@
-# 🧠 PDF Outline Extractor – Round 1B Solution
-Adobe India Hackathon 2025 – Round 1B 
+# 🧠 PDF Outline Extractor – Round 1A Solution
+Adobe India Hackathon 2025 – Round 1A  
 Team: Innoventors  
 Contributors: Koyyada Anusha, Muddassir Shakhan
 
