@@ -1,5 +1,7 @@
-# 🧠 Adobe India Hackathon 2025 — Round 1B Submission
-### Team Name: Innoventors
+# 🧠 PDF Outline Extractor – Round 1B Solution
+Adobe India Hackathon 2025 – Round 1B 
+Team: Innoventors  
+Contributors: Koyyada Anusha, Muddassir Shakhan
 
 ## 🚀 Challenge: Persona-Driven Document Intelligence
 
@@ -53,28 +55,22 @@ Sample output: See output/Document - X/Document - X.json
 1. Install dependencies:
    `bash
    pip install -r requirements.txt
+   
+3. Place PDF files inside input/ folder.
 
-2. Place PDF files inside input/ folder.
+4. Run the script:
 
-
-3. Run the script:
-
-python main.py --persona "PhD Researcher in Computational Biology" --job "Prepare a literature review on GNNs in drug discovery" --top_k 15
-
+   python main.py --persona "PhD Researcher in Computational Biology" --job "Prepare a literature review on GNNs in drug discovery" --top_k 15
 
 4. Check outputs in: output/DocumentName/DocumentName.json
 
-
-
-
 ---
 
-🐳 Run via Docker (Offline Mode)
+### 🐳 Run via Docker (Offline Mode)
 
 1. Build image:
 
 docker build -t adobe-r1b .
-
 
 2. Run container:
 
@@ -82,14 +78,10 @@ docker run --rm -v "$(pwd)/input":/app/input -v "$(pwd)/output":/app/output adob
 
 ---
 
-📌 Constraints Satisfied
+## 📌 Constraints Satisfied
 
 ✅ Offline execution (no internet)
-
 ✅ CPU only
-
 ✅ Model size < 1GB (all-MiniLM-L6-v2, t5-small)
-
 ✅ Output matches official JSON format
-
 ✅ Fast processing (≤60s for 3–5 PDFs
