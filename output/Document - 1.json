@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Document - 1.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job": "Prepare a literature review on GNNs in drug discovery",
+    "timestamp": "2025-07-28 17:43:24.741723"
+  },
+  "extracted_sections": [
+    {
+      "id": "2cd8b197-d209-4f0f-9791-573789df5490",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "Graph Neural Networks (GNNs) have emerged as a powerful tool in deep learning for drug discovery.",
+      "relevance_score": 0.6979,
+      "importance_rank": 1
+    },
+    {
+      "id": "36a610aa-5fbd-4fa2-98ed-f5a6af209a58",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "Graph Neural Networks for Drug Discovery",
+      "relevance_score": 0.6216,
+      "importance_rank": 2
+    },
+    {
+      "id": "2bbcda39-2210-44f4-a0ec-7fc74c7b321f",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "Common datasets used include PubChem, ChEMBL, and MoleculeNet.",
+      "relevance_score": 0.507,
+      "importance_rank": 3
+    },
+    {
+      "id": "18c4f2dc-9cb8-48cb-ac6d-47599326f513",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "Several types of GNN architectures are used including GCN, GAT, and GraphSAGE.",
+      "relevance_score": 0.4515,
+      "importance_rank": 4
+    },
+    {
+      "id": "a2553370-28b3-421c-ba2a-61f035892ec4",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "Applications include target prediction, toxicity classification, and molecular property prediction.",
+      "relevance_score": 0.4433,
+      "importance_rank": 5
+    },
+    {
+      "id": "0b621bd2-d20f-42ef-81ec-0d5ea17c571d",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "GCN applies convolution operations over graph nodes for feature learning.",
+      "relevance_score": 0.3958,
+      "importance_rank": 6
+    },
+    {
+      "id": "85ff7262-6750-4cea-80ad-f8e1462de2d7",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "2.1 Graph Convolutional Networks (GCN)",
+      "relevance_score": 0.3763,
+      "importance_rank": 7
+    },
+    {
+      "id": "7a7d9e90-fccf-4e6e-8894-f7169347880c",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "3. Datasets",
+      "relevance_score": 0.2992,
+      "importance_rank": 8
+    },
+    {
+      "id": "fc7a4895-7b39-4649-b04e-fe9cd8f86efe",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "2.2 Graph Attention Networks (GAT)",
+      "relevance_score": 0.2449,
+      "importance_rank": 9
+    },
+    {
+      "id": "00895d9a-852c-4a43-8f11-24cd10f4e661",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "GAT uses attention mechanisms to assign weights to neighbor nodes.",
+      "relevance_score": 0.2413,
+      "importance_rank": 10
+    },
+    {
+      "id": "98412d19-ccc2-4f74-9bd4-ed52af2c22ef",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "We evaluate models based on AUC, accuracy, and RMSE across datasets.",
+      "relevance_score": 0.1639,
+      "importance_rank": 11
+    },
+    {
+      "id": "6b5d403a-009b-4d23-9720-22d00b552e87",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "2. Methodologies",
+      "relevance_score": 0.1569,
+      "importance_rank": 12
+    },
+    {
+      "id": "b1324c4f-c661-4dde-ba43-96df9bb43abb",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "5. Applications",
+      "relevance_score": 0.1347,
+      "importance_rank": 13
+    },
+    {
+      "id": "38f40266-8f4e-483c-a5dc-97ffc23b7a7c",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "4. Performance Benchmarks",
+      "relevance_score": 0.1192,
+      "importance_rank": 14
+    },
+    {
+      "id": "f3ffb474-bf70-4da4-b857-20039e176632",
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "text": "1. Introduction",
+      "relevance_score": 0.0805,
+      "importance_rank": 15
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "Graph Neural Networks (GNNs) have emerged as a powerful tool in deep learning for drug discovery.",
+      "refined_text": "Graph Neural Networks (GNNs) have emerged as a powerful tool in deep learning for drug discovery . a number of types of GNN architectures are used including GCN, GAT, and GraphSAGE ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "Graph Neural Networks for Drug Discovery",
+      "refined_text": "Graph Neural Networks (GNNs) have emerged as a powerful tool in deep learning for drug discovery . a number of types of GNN architectures are used including GCN, GAT and GraphSAGE ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "Common datasets used include PubChem, ChEMBL, and MoleculeNet.",
+      "refined_text": "common datasets used include PubChem, ChEMBL, and MoleculeNet . applications Applications include target prediction, toxicity classification, and molecular property prediction ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "Several types of GNN architectures are used including GCN, GAT, and GraphSAGE.",
+      "refined_text": "2.1 Graph Convolutional Networks (GCN) GCN applies convolution operations over graph nodes for feature learning . 2.2 Graph Attention networks (GAT) GAT uses attention mechanisms to assign weights to neighbor nodes ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "Applications include target prediction, toxicity classification, and molecular property prediction.",
+      "refined_text": "Summary generation failed due to insufficient content."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "GCN applies convolution operations over graph nodes for feature learning.",
+      "refined_text": "GCN applies convolution operations over graph nodes for feature learning . 2.2 Graph Attention Networks (GAT) GAT uses attention mechanisms to assign weights to neighbor nodes ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "2.1 Graph Convolutional Networks (GCN)",
+      "refined_text": "Graph Convolutional Networks (GCN) GCN uses convolution operations over graph nodes for feature learning . 2.2 Graph Attention networks (GAT) GAT uses attention mechanisms to assign weights to neighbor nodes ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "3. Datasets",
+      "refined_text": "performance Benchmarks We evaluate models based on AUC, accuracy, and RMSE across datasets . applications Applications include target prediction, toxicity classification, and molecular property prediction ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "2.2 Graph Attention Networks (GAT)",
+      "refined_text": "2.2 Graph Attention Networks (GAT) uses attention mechanisms to assign weights to neighbor nodes . datasets Common datasets used include PubChem, ChEMBL, and MoleculeNet ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "GAT uses attention mechanisms to assign weights to neighbor nodes.",
+      "refined_text": "GAT uses attention mechanisms to assign weights to neighbor nodes . datasets Common datasets used include PubChem, ChEMBL, and MoleculeNet ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "We evaluate models based on AUC, accuracy, and RMSE across datasets.",
+      "refined_text": "we evaluate models based on AUC, accuracy, and RMSE across datasets . applications Applications include target prediction, toxicity classification, and molecular property prediction ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "2. Methodologies",
+      "refined_text": "Graph Convolutional Networks (GCN) GCN applies convolution operations over graph nodes for feature learning . 2.2 Graph Attention Networks GAT uses attention mechanisms to assign weights to neighbor nodes ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "5. Applications",
+      "refined_text": "Summary generation failed due to insufficient content."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "4. Performance Benchmarks",
+      "refined_text": "performance Benchmarks We evaluate models based on AUC, accuracy, and RMSE across datasets . applications Applications include target prediction, toxicity classification, and molecular property prediction ."
+    },
+    {
+      "document": "Document - 1.pdf",
+      "page": 1,
+      "heading_title": "1. Introduction",
+      "refined_text": "Graph Neural Networks (GNNs) have emerged as a powerful tool in deep learning for drug discovery . a number of types of GNN architectures are used including GCN, GAT, and GraphSAGE ."
+    }
+  ]
+}

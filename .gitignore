@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore model cache from Hugging Face
+huggingface/
+*.bin
+
+# Ignore Python bytecode/cache
+pycache/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log and temp files
+*.log
+*.tmp

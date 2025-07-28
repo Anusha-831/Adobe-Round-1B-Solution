@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Document - 2.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job": "Prepare a literature review on GNNs in drug discovery",
+    "timestamp": "2025-07-28 17:43:55.801722"
+  },
+  "extracted_sections": [
+    {
+      "id": "fc56cebd-5fe0-44a6-871c-3e6cf7a083fd",
+      "document": "Document - 2.pdf",
+      "page": 2,
+      "text": "Example of an Arti\ufb01cial Neural Network",
+      "relevance_score": 0.258,
+      "importance_rank": 1
+    },
+    {
+      "id": "cf5eb94e-62dd-43b2-8af6-dd7db4545005",
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "text": "Deep Learning: An Introduction for Applied",
+      "relevance_score": 0.2438,
+      "importance_rank": 2
+    },
+    {
+      "id": "8cfb05e5-378d-4bcb-936f-38125fbe2284",
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "text": "Mathematicians",
+      "relevance_score": 0.2134,
+      "importance_rank": 3
+    },
+    {
+      "id": "75a269b6-131a-4b9d-b811-a18eb57c4b17",
+      "document": "Document - 2.pdf",
+      "page": 9,
+      "text": "References",
+      "relevance_score": 0.1501,
+      "importance_rank": 4
+    },
+    {
+      "id": "2c694c66-0985-4951-ab16-d03dac5a58c2",
+      "document": "Document - 2.pdf",
+      "page": 3,
+      "text": "Full MATLAB Example",
+      "relevance_score": 0.15,
+      "importance_rank": 5
+    },
+    {
+      "id": "41ad6386-f9b5-4478-8c10-b6ab19694b59",
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "text": "January 19, 2018",
+      "relevance_score": 0.0957,
+      "importance_rank": 6
+    },
+    {
+      "id": "566b993e-d3ca-4b1a-8a01-0fd9615d77cc",
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "text": "arXiv:1801.05894v1  [math.HO]  17 Jan 2018",
+      "relevance_score": 0.0871,
+      "importance_rank": 7
+    },
+    {
+      "id": "bb83cac8-2f78-4abe-a643-74cc60d96c98",
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "text": "Catherine F. Higham \u2217",
+      "relevance_score": 0.0663,
+      "importance_rank": 8
+    },
+    {
+      "id": "b91baf4e-bf13-4378-969c-9ca8491c593c",
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "text": "Desmond J. Higham \u2020",
+      "relevance_score": 0.0663,
+      "importance_rank": 9
+    },
+    {
+      "id": "79d13303-4dfe-4d22-b9f3-fd95d84e036a",
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "text": "Motivation",
+      "relevance_score": 0.0531,
+      "importance_rank": 10
+    },
+    {
+      "id": "d1ff6b2c-a209-4b35-ba59-2db7bea9f90e",
+      "document": "Document - 2.pdf",
+      "page": 9,
+      "text": "Acknowledgements",
+      "relevance_score": 0.0436,
+      "importance_rank": 11
+    },
+    {
+      "id": "08d1cfce-503e-4b95-8539-caf775b50386",
+      "document": "Document - 2.pdf",
+      "page": 5,
+      "text": "Of Things Not Treated",
+      "relevance_score": -0.0289,
+      "importance_rank": 12
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Document - 2.pdf",
+      "page": 2,
+      "heading_title": "Example of an Arti\ufb01cial Neural Network",
+      "refined_text": "this article takes a data fitting view of artificial neural networks . the data may show oil drilling sites on a map, where category A denotes a successful outcome ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "heading_title": "Deep Learning: An Introduction for Applied",
+      "refined_text": "deep learning is becoming a pervasive tool in a host of applications fields . a deep neural network can be trained in calculus, approximation theory and optimization ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "heading_title": "Mathematicians",
+      "refined_text": "a deep neural network is becoming a pervasive tool in a host of applications fields . the idea is based on applied and computational mathematics . we illustrate the concepts with a short MATLAB code ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 9,
+      "heading_title": "References",
+      "refined_text": "USENIX Symposium on operating systems design and Implemen- tation (OSDI 16), 2016, pp. 265\u2013283 ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 3,
+      "heading_title": "Full MATLAB Example",
+      "refined_text": "listing 6.1 shows how a network of the form shown in Figure 3 may be used on the data in Figure 1 . this MATLAB code has been written for clarity and brevity, rather than efficiency or elegance ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "heading_title": "January 19, 2018",
+      "refined_text": "this article provides a very brief introduction to the basic concepts that un- derlie deep learning from an applied mathematics perspective . the article may also be useful for instructors in mathematics who wish to enliven their classes with references to the application of deep learning techniques ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "heading_title": "arXiv:1801.05894v1  [math.HO]  17 Jan 2018",
+      "refined_text": "Summary generation failed due to insufficient content."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "heading_title": "Catherine F. Higham \u2217",
+      "refined_text": "deep learning is becoming a pervasive tool in a host of applications fields . a deep neural network can be trained in calculus, approximation theory and optimization ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "heading_title": "Desmond J. Higham \u2020",
+      "refined_text": "deep learning is becoming a pervasive tool in a host of applications fields . a deep neural network can be trained in calculus, approximation theory and optimization ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 1,
+      "heading_title": "Motivation",
+      "refined_text": "the phrase deep learning relates to a set of tools that have become extremely popular in a vast range of applications . the field has grown to the extent where sophisticated software packages are available in the public domain ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 9,
+      "heading_title": "Acknowledgements",
+      "refined_text": "the MATLAB code in Listings 6.1 and 6.2 can be found at http://personal.strath.ac.uk/d.j.higham/algfiles.html as well as an exteneded version that produces Figures 7 and 8 . a system for large-scale machine learning uses lsqnonlin to produce Figure 4 ."
+    },
+    {
+      "document": "Document - 2.pdf",
+      "page": 5,
+      "heading_title": "Of Things Not Treated",
+      "refined_text": "free online book [26] provides a hands-on tutorial style description of deep learning techniques . the survey gives an intuitive and accessible overview of many of the key ideas behind deep learning, and highlights recent success stories ."
+    }
+  ]
+}

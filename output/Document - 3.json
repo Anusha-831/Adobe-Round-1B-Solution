@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Document - 3.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job": "Prepare a literature review on GNNs in drug discovery",
+    "timestamp": "2025-07-28 17:44:01.509871"
+  },
+  "extracted_sections": [
+    {
+      "id": "c8a6e376-79fb-4090-b117-3442ce6894bc",
+      "document": "Document - 3.pdf",
+      "page": 1,
+      "text": "A Gentle Introduction to Deep Learning for Graphs",
+      "relevance_score": 0.3348,
+      "importance_rank": 1
+    },
+    {
+      "id": "4cc5cce6-dc12-4d45-90fc-0a6721094cc6",
+      "document": "Document - 3.pdf",
+      "page": 1,
+      "text": "arXiv:1912.12693v2  [cs.LG]  15 Jun 2020",
+      "relevance_score": 0.0789,
+      "importance_rank": 2
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Document - 3.pdf",
+      "page": 1,
+      "heading_title": "A Gentle Introduction to Deep Learning for Graphs",
+      "refined_text": "the paper favors a consistent and progressive presentation of the main concepts and architectural aspects over an exposition of the most recent liter- ature . it takes a top-down view of the problem, introducing a generalized formulation of graph representation learning ."
+    },
+    {
+      "document": "Document - 3.pdf",
+      "page": 1,
+      "heading_title": "arXiv:1912.12693v2  [cs.LG]  15 Jun 2020",
+      "refined_text": "the paper is a tutorial introduction to the field of deep learn- ing for graphs . it favors a consistent and progressive presentation of the main concepts and architectural aspects over an exposition of the most recent liter- ature ."
+    }
+  ]
+}
