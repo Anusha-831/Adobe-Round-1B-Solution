@@ -81,7 +81,11 @@ docker run --rm -v "$(pwd)/input":/app/input -v "$(pwd)/output":/app/output adob
 ## 📌 Constraints Satisfied
 
 ✅ Offline execution (no internet)
+
 ✅ CPU only
+
 ✅ Model size < 1GB (all-MiniLM-L6-v2, t5-small)
+
 ✅ Output matches official JSON format
-✅ Fast processing (≤60s for 3–5 PDFs
+
+✅ Fast processing (≤60s for 3–5 PDFs)
