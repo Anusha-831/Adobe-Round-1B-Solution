@@ -70,11 +70,11 @@ Sample output: See output/Document - X.json
 
 1. Build image:
 
-docker build -t adobe-r1b .
+   docker build -t adobe-r1b .
 
 2. Run container:
 
-docker run --rm -v "$(pwd)/input":/app/input -v "$(pwd)/output":/app/output adobe-r1b
+   docker run --rm -v "$(pwd)/input":/app/input -v "$(pwd)/output":/app/output adobe-r1b
 
 ---
 
